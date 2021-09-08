@@ -1,0 +1,61 @@
+body {
+background: rgb(15, 139, 255);
+font-family: Arial, Helvetica, sans-serif; 
+height:100%;
+}
+
+.cronometro {
+width: 800px;
+margin: 30px auto;
+color:white;
+text-align:center;
+}
+
+.parciais {
+    width: 800px;
+    margin: 30px auto;
+    color:white;
+    text-align:center;
+    }
+
+.parcial {
+    font-size: 28px;
+    }
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 48px;
+  text-transform: uppercase;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    text-transform: uppercase;
+  }
+
+.tempo{
+  font-size: 36px;
+}
+
+button{
+    background:rgb(15, 139, 255);
+    color: white;
+    border: solid 2px white;
+    text-decoration:none;
+    cursor:pointer;
+    font-size:24px;
+    padding:18px 10px;
+    width:180px;
+    margin: 5px;
+    outline: none;
+    border-radius: 10px;
+}
+
+button:hover{
+    background:white;
+    border: solid 2px white;
+    color: rgb(15, 139, 255);
+}
